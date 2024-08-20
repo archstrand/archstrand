@@ -3,7 +3,6 @@
 - I’m currently learning Java, HTML, FTC, and Fusion360.
 - I’m looking to collaborate on FTC.
 - Reach me at the.james.savin@gmail.com
-- Pronouns: he/him
 - Fun fact: I founded a debate club!
 
 <!---
