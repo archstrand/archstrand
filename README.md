@@ -3,7 +3,7 @@
 - I’m currently learning Java, HTML, FTC, and Fusion360.
 - I’m looking to collaborate on FTC.
 - Reach me at the.james.savin@gmail.com
-- Fun fact: I founded a debate club!
+- Fun fact: I'm captain of Lincoln-Douglas at my school.
 
 <!---
 archstrand/archstrand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
